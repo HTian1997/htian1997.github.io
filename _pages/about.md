@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://htian1997.github.io/files/headshot.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D. student in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). [[Curriculum Vitae](http://lantaoyu.com/files/CV.pdf)] 
+* I am a Ph.D. student in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). [[Curriculum Vitae](http://htian1997.github.io/files/CV.pdf)] 
 
 * My research interests currently span machine learning to deep learning, and my Ph.D. research topic is their applications on protein allostery.
 
