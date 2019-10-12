@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://htian1997.github.io/files/headshot.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://htian1997.github.io/files/headshot.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 * I am a Ph.D. student in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). [[Curriculum Vitae](http://htian1997.github.io/files/CV.pdf)] 
