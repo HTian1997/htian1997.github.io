@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). [[Curriculum Vitae](http://htian1997.github.io/files/CV.pdf)] 
+* I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). 
 
-* My research interests currently span machine learning to deep learning, and my Ph.D. research topic is their applications on protein allostery.
+* My research interests span machine learning to deep learning, and my Ph.D. research topic is deciphering protein allostery by machine learning techniques.
 
-* Prior to Ph.D. study, I received Bachelor of Engineering degree from [Beijing University of Chemical Technology](http://english.buct.edu.cn) in 2019.
+* Prior to Ph.D. study, I received Bachelor's degree from [Beijing University of Chemical Technology](http://english.buct.edu.cn) in 2019.
 
 
 # Recent News
