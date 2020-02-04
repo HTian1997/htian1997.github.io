@@ -10,7 +10,7 @@ redirect_from:
 
 * I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). 
 
-* My research interests mainly lies in machine learning and deep learning, and my Ph.D. research topic is deciphering protein allostery by machine learning techniques.
+* My research interests mainly lie in machine learning and deep learning, and my Ph.D. research topic is deciphering protein allostery by machine learning techniques.
 
 * Prior to Ph.D. study, I received Bachelor's degree from [Beijing University of Chemical Technology](http://english.buct.edu.cn) in 2019.
 
