@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* 2020-03-02 Finished my first Pull Request [#2549](https://github.com/MDAnalysis/mdanalysis/pull/2549) on [MDAnalysis](https://github.com/MDAnalysis/mdanalysis). 
 * 2020-02-03 Finished the first project!
 * 2019-10-25 Participated in Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting. 
 * 2019-09-20 Presented in our group meeting about my undergrad research and literature review. Here is our 2019-2020 [group member](https://www.facebook.com/424893014296789/photos/pb.424893014296789.-2207520000.1569378986./2359913207461417/?type=3&theater)! 
