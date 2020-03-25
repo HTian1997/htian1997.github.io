@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* 2020-03-24 Admitted to UT Austin online CS master!
 * 2020-03-02 Finished my first Pull Request [#2549](https://github.com/MDAnalysis/mdanalysis/pull/2549) on [MDAnalysis](https://github.com/MDAnalysis/mdanalysis). 
 * 2020-02-03 Finished the first project!
 * 2019-10-25 Participated in Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting. 
