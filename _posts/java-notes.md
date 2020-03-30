@@ -1,0 +1,126 @@
+---
+title: 'All about Java'
+date: 2020-03-29
+---
+
+
+### Java Tutorial
+
+1. Syntax
+
+A class should always starts with an uppercase first letter. 
+
+2. Comments
+
+`//` is used for single line comments. 
+
+`/* */` is used for multi-line comments.
+
+3. Variables
+
+Must specify the type and assign value (later). `type variable = value;`
+
+Types include `String`, `int`, `float`, `char` and `boolean`. 
+
+Adding `final` keyword will declare the variable as "constant". E.g. `final int myNum = 15;`
+
+4. Data Types
+
+String values must be surrounded by double quotes.
+
+5. Type Casting
+
+Widening Casting (automatically) - converting a smaller type to a larger type size : `byte` -> `short` -> `char` -> `int` -> `long` -> `float` -> `double`
+
+Narrowing Casting (manually) - converting a larger type to a smaller size type :
+`double` -> `float` -> `long` -> `int` -> `char` -> `short` -> `byte`
+
+6. Operators
+
+`!` : logical not
+
+7. Strings
+
+A String is an object that contain methods. `string.length()`
+
+8. If ... Else
+
+Short hand if ... else expression: `variable = (condition) ? expressionTrue : expressionFalse; ` 
+
+9. For Loop
+
+`for (statement 1; statement 2; statement 3)`. s1 is executed one time before the code block; s2 defines the condition for executing the code block; s3 is sexcuted every time after the code block has been executed. 
+
+A for-each loop is used exclusively to loop through elements in an array. 
+
+
+
+### Java Methods
+
+Instead of defining methods that do the same thing, it is better to overload one.
+
+Multiple methods can have the same name as long as the number and/or type of parameters are different. 
+
+
+
+### Java Classes
+
+1. Classes/Objects
+
+A class is a template for objects, and an object is an instance of a class.
+
+(a class should always start with an uppercase first letter, and that the name of the java file should match the class name)
+
+2. Class Methods
+
+a `static` method can be accessed without creating an object of the class, unlike `public` can only be accessed by objects.
+
+3. Constructors
+
+A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes. (the constructor name must match the class name, and it cannot have a return type like `void`)
+
+4. Encapsulation
+
+Make sure that "sensitive" data is hidden from users: 1. declare class variables/attributes as `private`; 2. provide public `get` and `set` methods to access and update the value of a `private` variable. 
+
+```java
+public class Person {
+  private String name;
+ 
+  // Getter
+  public String getName() {
+    return name;
+  }
+
+  // Setter
+  public void setName(String name) {
+    this.name = name;
+  }
+}
+```
+
+5. Inheritance
+
+inherit attributes and methods from one class to another using `extends` keyword. 
+
+6. Polymorphism
+
+Inheritance lets us inherit attributes and methods from another class. Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
+
+7. Abstraction
+
+The `abstract` keyword is a non-access modifier, used for classes and methods: 1) Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class); 2) Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
+
+An abstract class can have both abstract and regular methods
+
+8. Interface
+
+Interface is another way to achieve abstraction which is a completely abstract class that is used to group related methods with empty bodies.
+
+To access the interface methods, the interface must be implemented (kinda like inherited) by another class with the `implements` keyword (instead of `extends`). 
+
+9. Enums
+
+An `enum` is a special "class" that represents a group of constants (unchangeable variables, like `final` variables).
+
+To create an `enum`, use the `enum` keyword (instead of class or interface), and separate the constants with a comma. Note that they should be in uppercase letters. Access `enum` constants with the dot syntax
