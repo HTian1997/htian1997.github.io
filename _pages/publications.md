@@ -13,7 +13,7 @@ Shen, Q. R., <b>H. Tian</b>, X. Y. Han, H. Zhang, and W. Sun.
 
 
 <br>
-<b>Deciphering the allosteric process of PtAu1a through integrated computational methods</b> <br> 
-<b>Hao Tian</b>, Francesco Trozzi, Brian D. Zoltowski, and Peng Tao.
+<b>Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods</b> <br> 
+<b>Hao Tian</b> and Peng Tao.
 <br>
-<i>Preparing for submission.
+<i>arXiv:2004.05256 [q-bio.BM]
