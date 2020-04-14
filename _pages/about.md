@@ -16,9 +16,8 @@ redirect_from:
 
 
 # Recent News
-* 2020-03-24 Admitted to UT Austin online CS master!
-* 2020-03-02 Finished my first Pull Request [#2549](https://github.com/MDAnalysis/mdanalysis/pull/2549) on [MDAnalysis](https://github.com/MDAnalysis/mdanalysis). 
-* 2020-02-03 Finished my first Ph.D. project!
+* 2020-04-13 First paper about COVID-19 is now available on arXiv. Check details [here](https://arxiv.org/abs/2004.05256). 
+* 2020-03-24 Admitted to UT Austin online CS Master!
 * 2019-10-25 Participated in Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting. 
 * 2019-09-20 Presented in our group meeting about my undergrad research and literature review. Here is our 2019-2020 [group member](https://www.facebook.com/424893014296789/photos/pb.424893014296789.-2207520000.1569378986./2359913207461417/?type=3&theater)! 
 * 2019-08-30 Attended group workshop for CHARMM and AMBER, check news in [Twitter](https://twitter.com/TaoGroupSMU/status/1171945478788980737).
