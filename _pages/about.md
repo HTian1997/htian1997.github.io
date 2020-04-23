@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). My research interest lies in machine learning and molecular dynamics simulations, and my Ph.D. research topic is deciphering protein allostery through machine learning techniques. Check my latest CV here (Last updates: 04/22/2020). 
 
-
+<a style="text-decoration:none" href="http://Example.Microsoft.Com">Name</a>
 
 ## Education
 * Ph.D. candidate in Theoretical and Computational Chemistry, Southern Methodisy University, 2019 - Current
