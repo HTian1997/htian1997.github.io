@@ -8,13 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). I will also persue an Online Master of Science in Computer Science (OMSCS) at Georgia Tech starting from 2020 fall. 
-
-* My research interest lies in combining machine learning with molecular dynamics simulations, and my Ph.D. research topic is deciphering protein allostery through machine learning techniques.
-
-* Prior to Ph.D. study, I received Bachelor's degree from [Beijing University of Chemical Technology](http://english.buct.edu.cn) in 2019.
+I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the [Chemistry Department](https://www.smu.edu/chemistry) at [Southern Methodist University](https://www.smu.edu), advised by Prof. [Peng Tao](http://faculty.smu.edu/ptao/). My research interest lies in machine learning and molecular dynamics simulations, and my Ph.D. research topic is deciphering protein allostery through machine learning techniques. Check my latest CV here (Last updates: 04/22/2020). 
 
 
-# Recent News
-* 2020-04-13 First paper about COVID-19 is now available on arXiv. Check details [here](https://arxiv.org/abs/2004.05256). 
-* 2019-10-25 Participated in Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting. 
+
+## Education
+* Ph.D. candidate in Theoretical and Computational Chemistry, Southern Methodisy University, 2019 - Current
+* M.S. in Computer Science, Georgia Tech, 2020 - Current
+* B.Eng. in Chemical Engineering, Beijing University of Chemical Technology, 2015 - 2019
+
+
+
+## Publications
+<br>
+<b>Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods</b> <br> 
+<b>Hao Tian</b> and Peng Tao.
+<br>
+<i>arXiv:2004.05256 [q-bio.BM]
+
+<br>
+<b>ivis Dimensionality Reduction Framework for Biomacromolecular Simulations</b> <br> 
+<b>Hao Tian</b> and Peng Tao.
+<br>
+<i>arXiv:2004.10718 [q-bio.QM]
+
+
