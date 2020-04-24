@@ -18,9 +18,9 @@ Check my latest CV <a style="text-decoration:none" href="https://github.com/HTia
 
 
 ## Recent News
-&#8227; 2020-04-22 Manuscript "ivis Dimensionality Reduction Framework for Biomacromolecular Simulations" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.10718">arXiv</a>. <br style="line-height:1px;" />
-&#8227; 2020-04-10 Manuscript "Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.05256">arXiv</a>. <br style="line-height:1px;" />
-&#8227; 2019-10-25 Attend the Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting at the University of Oklahoma. <br style="line-height:1px;" />
+&#8227; 2020-04-22 Manuscript "ivis Dimensionality Reduction Framework for Biomacromolecular Simulations" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.10718">arXiv</a>. <br style="line-height:3px;" />
+&#8227; 2020-04-10 Manuscript "Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.05256">arXiv</a>. <br style="line-height:3px;" />
+&#8227; 2019-10-25 Attend the Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting at the University of Oklahoma. <br style="line-height:3px;" />
 
 
 
