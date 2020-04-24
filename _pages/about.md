@@ -15,21 +15,38 @@ My research interest lies in machine learning and molecular dynamics simulations
 Check my latest CV <a style="text-decoration:none" href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf">here</a> (Last updates: 04/22/2020). 
 
 
+
+
+## Recent News
+2020-04-22 Manuscript "ivis Dimensionality Reduction Framework for Biomacromolecular Simulations" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.10718">arXiv</a>
+
+2020-04-10 Manuscript "Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.05256">arXiv</a>
+
+2019-10-25 Attend the Southwest Theoretical and Computational Chemistry (SWTCC) 2019 meeting at the University of Oklahoma. 
+
+
+
+
 ## Education
-&#8226; Ph.D. candidate in Theoretical and Computational Chemistry, Southern Methodisy University, 2019 - Current <br>
 &#8226; M.S. in Computer Science, Georgia Tech, Starting from Aug 2020 <br>
+&#8226; Ph.D. candidate in Theoretical and Computational Chemistry, Southern Methodisy University, 2019 - Current <br>
 &#8226; B.Eng. in Chemical Engineering, Beijing University of Chemical Technology, 2015 - 2019 <br>
 
 
+
+
+
 ## Publications
-<b>Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods</b> <br> 
+
+[2] <b>ivis Dimensionality Reduction Framework for Biomacromolecular Simulations. </b> <br> 
+<u>Hao Tian</u> and Peng Tao.<br>
+<i>arXiv:2004.10718 [q-bio.QM]
+
+[1] <b>Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods. </b> <br> 
 <u>Hao Tian</u> and Peng Tao. <br> 
 <i>arXiv:2004.05256 [q-bio.BM]
 
 
-<b>ivis Dimensionality Reduction Framework for Biomacromolecular Simulations</b> <br> 
-<u>Hao Tian</u> and Peng Tao.<br>
-<i>arXiv:2004.10718 [q-bio.QM]
 
 
 ## Contact
