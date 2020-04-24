@@ -22,11 +22,12 @@ Check my latest CV <a style="text-decoration:none" href="https://github.com/HTia
 
 
 ## Publications
-Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods <br> 
+<b>Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods</b> <br> 
 <u>Hao Tian</u> and Peng Tao. <br> 
 <i>arXiv:2004.05256 [q-bio.BM]
 
-ivis Dimensionality Reduction Framework for Biomacromolecular Simulations <br> 
+
+<b>ivis Dimensionality Reduction Framework for Biomacromolecular Simulations</b> <br> 
 <u>Hao Tian</u> and Peng Tao.<br>
 <i>arXiv:2004.10718 [q-bio.QM]
 
