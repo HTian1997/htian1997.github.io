@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the <a style="text-decoration:none" href="https://www.smu.edu/chemistry">Chemistry Department</a> at <a style="text-decoration:none" href="https://www.smu.edu">Southern Methodist University</a>, advised by Prof. <a style="text-decoration:none" href="http://faculty.smu.edu/ptao/">Peng Tao</a>. My research interest lies in machine learning and molecular dynamics simulations, and my Ph.D. research topic is deciphering protein allostery through machine learning techniques. Check my latest CV here (Last updates: 04/22/2020). 
+I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the <a style="text-decoration:none" href="https://www.smu.edu/chemistry">Chemistry Department</a> at <a style="text-decoration:none" href="https://www.smu.edu">Southern Methodist University</a>, advised by Prof. <a style="text-decoration:none" href="http://faculty.smu.edu/ptao/">Peng Tao</a>. My research interest lies in machine learning and molecular dynamics simulations, and my Ph.D. research topic is deciphering protein allostery through machine learning techniques. Check my latest CV <a style="text-decoration:none" href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf">here</a> (Last updates: 04/22/2020). 
 
 
 ## Education
