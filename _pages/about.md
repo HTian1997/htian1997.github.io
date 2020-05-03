@@ -14,8 +14,6 @@ My research interest lies in machine learning and molecular dynamics simulations
 
 Check my latest CV <a style="text-decoration:none" href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf" >here</a> (Last updates: 04/23/2020). 
 
-[here](https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf)
-
 ## Recent News
 &#8227; 2020-04 Manuscript "ivis Dimensionality Reduction Framework for Biomacromolecular Simulations" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.10718">arXiv</a>.<br>
 &#8227; 2020-04 Admitted to the Online Master of Science programe in Computer Science (OMSCS) at Georgia Tech. <br>
