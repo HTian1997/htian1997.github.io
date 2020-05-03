@@ -12,8 +12,7 @@ I am a Ph.D. student majoring in Theoretical and Computational Chemistry in the 
 
 My research interest lies in machine learning and molecular dynamics simulations, and my Ph.D. research topic is deciphering protein allostery through machine learning techniques. 
 
-Check my latest CV <a style="text-decoration:none" href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf">here</a> (Last updates: 04/23/2020). 
-
+Check my latest CV <a style="text-decoration:none" href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf" target="_blank" >here</a> (Last updates: 04/23/2020). 
 
 
 
