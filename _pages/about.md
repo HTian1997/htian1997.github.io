@@ -16,18 +16,6 @@ Check my latest CV <a style="text-decoration:none" href="https://github.com/HTia
 
 <a href="https://docs.google.com/viewer?url=${https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf}">here.</a>
 
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
-
-
 ## Recent News
 &#8227; 2020-05 Awarded as the Outstanding Teaching Assistant.  <br>
 &#8227; 2020-04 Manuscript "ivis Dimensionality Reduction Framework for Biomacromolecular Simulations" is available on <a style="text-decoration:none" href="https://arxiv.org/abs/2004.10718">arXiv</a>.<br>
