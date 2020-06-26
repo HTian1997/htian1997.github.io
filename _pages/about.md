@@ -14,7 +14,7 @@ My research interest lies in machine learning and molecular dynamics simulations
 
 Check my latest CV <a style="text-decoration:none" href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf" >here</a> (Last updates: 04/23/2020). 
 
-<a href="https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf" target="_blank">here.</a>
+<a href="https://docs.google.com/viewer?url=${https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf}">here.</a>
 
 <html lang="en" style="width:100%; height:100%;">
 <head>
@@ -25,6 +25,8 @@ Check my latest CV <a style="text-decoration:none" href="https://github.com/HTia
     <iframe src="https://docs.google.com/gview?url= https://github.com/HTian1997/htian1997.github.io/blob/master/files/CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
+
+
 
 ## Recent News
 &#8227; 2020-05 Awarded as the Outstanding Teaching Assistant.  <br>
