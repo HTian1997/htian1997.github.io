@@ -26,9 +26,10 @@ Check my latest CV <a style="text-decoration:none" href="https://github.com/HTia
 
 
 ## Education
-&#8226; M.S. in Computer Science, Georgia Tech, starting from Aug 2020 
 
 &#8226; Ph.D. candidate in Theoretical and Computational Chemistry, Southern Methodist University, 2019 - Current 
+
+&#8226; M.S. in Computer Science, Georgia Tech, starting from Aug 2020 
 
 &#8226; B.Eng. in Chemical Engineering, Beijing University of Chemical Technology, 2015 - 2019 
 
