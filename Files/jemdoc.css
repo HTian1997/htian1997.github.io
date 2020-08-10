@@ -1,5 +1,37 @@
 /* Default css file for jemdoc. */
 
+/* for mobile view */
+@media (min-width: 820px) {
+    html {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 780px) {
+    html {
+        font-size: 17.5px;
+    }
+}
+
+@media (min-width: 702px) {
+    html {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 724px) {
+    html {
+        font-size: 16.5px;
+    }
+}
+
+@media (max-width: 623px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
 /* Menu */
 
 .menu {
@@ -75,6 +107,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	font-size: 18px;
 }
 
 #layout-menu {
