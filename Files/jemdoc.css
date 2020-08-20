@@ -2,31 +2,31 @@
 
 /* for mobile view */
 @media (min-width: 820px) {
-    html {
+    html, ul {
         font-size: 18px;
     }
 }
 
 @media (min-width: 780px) {
-    html {
+    html, ul {
         font-size: 17.5px;
     }
 }
 
 @media (min-width: 702px) {
-    html {
+    html, ul {
         font-size: 17px;
     }
 }
 
 @media (min-width: 724px) {
-    html {
+    html, ul {
         font-size: 16.5px;
     }
 }
 
 @media (max-width: 623px) {
-    html {
+    html, ul {
         font-size: 16px;
     }
 }
