@@ -2,32 +2,47 @@
 
 /* for mobile view */
 @media (min-width: 820px) {
-    html, ul {
+    html{
         font-size: 18px;
+    }
+    ul{
+    	font-size: 18px;
     }
 }
 
 @media (min-width: 780px) {
-    html, ul {
+    html{
         font-size: 17.5px;
+    }
+    ul{
+    	font-size: 17.5px;
     }
 }
 
 @media (min-width: 702px) {
-    html, ul {
+    html{
         font-size: 17px;
+    }
+    ul{
+    	font-size: 17px;
     }
 }
 
 @media (min-width: 724px) {
-    html, ul {
+    html{
         font-size: 16.5px;
+    }
+    ul{
+    	font-size: 16.5px;
     }
 }
 
 @media (max-width: 623px) {
-    html, ul {
+    html {
         font-size: 16px;
+    }
+    ul{
+    	font-size: 16px;
     }
 }
 
