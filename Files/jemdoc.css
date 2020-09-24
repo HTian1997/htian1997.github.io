@@ -93,11 +93,11 @@
 	width: 1000px;
 	min-height: 1000px;
 	max-height: 999999px; /* prevents font boosting */
-	margin: 20px auto 20px; /* top right bottom left */
+	margin: 30px auto 30px; /* top right bottom left */
 	box-shadow: 0 0 3px #122b6d; /*527bbd;*/
 	text-align: left;
 	background: #fff;
-	padding: 14px 14px 14px 14px; /* top right bottom left */
+	padding: 16px 20px 16px 20px; /* top right bottom left */
 	z-index: 1;
 }
 
