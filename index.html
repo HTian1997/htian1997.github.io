@@ -8,6 +8,12 @@
 	<link rel="shortcut icon" href="./Files/favicon.ico">
 	<link rel="icon" href="./Files/favicon.ico">
 	<title>Hao Tian</title>
+	<style>
+		.box {
+   display: flex;
+   align-items:center;
+}
+	</style>
 </head>
 
 <body>
@@ -27,8 +33,9 @@
 					<A HREF="#News">News</A> | 
 					<A HREF="#Interest">Research Interest</A> | 
 					<A HREF="#Education">Education</A> | 
-					<A HREF="#Publications">Publications</A> | 
-					<A HREF="#Projects">Projects</A> | 
+					<A HREF="#Publications">Publications</A> <br/>
+					<A HREF="#Projects">Projects</A> |
+					 <A HREF="#Presentations">Presentations</A> |
 					<A HREF="#Awards">Awards</A> | 
 					<A HREF="#Services">Services</A>
 					<br /><br />
@@ -95,17 +102,18 @@
 
 		<ul>
 			<p style="text-indent: -1.5rem;margin-left: 0rem;">
-				<span>
-					[1] 
-					<b>Tian, H.</b>; Trozzi, F.; Zoltowski, B.D.; Tao, P. 
-					Deciphering the Allosteric Process of Phaeodactylum tricornutum Aureochrome 1a LOV Domain. 
-					<i>ChemRxiv</i> 2020 
-					(Submitted to <i>The Journal of Physical Chemistry B</i>, under review)
-					[<a href= "https://chemrxiv.org/articles/preprint/Deciphering_the_Allosteric_Process_of_Phaeodactylum_tricornutum_Aureochrome_1a_LOV_Domain/12575954">PDF</a>] 
-				</span>
+				<div class="box">
+					<img src="./Files/ptau1a.png" width="300px" height="150px" style="margin-right: 20px" />
+					<span>
+						[1] 
+						<b>Tian, H.</b>; Trozzi, F.; Zoltowski, B.D.; Tao, P. 
+						Deciphering the Allosteric Process of Phaeodactylum tricornutum Aureochrome 1a LOV Domain. 
+						<i>ChemRxiv</i> 2020 
+						(Submitted to <i>The Journal of Physical Chemistry B</i>, under review)
+						[<a href= "https://chemrxiv.org/articles/preprint/Deciphering_the_Allosteric_Process_of_Phaeodactylum_tricornutum_Aureochrome_1a_LOV_Domain/12575954">PDF</a>] 
+					</span>
+				</div>
 			</p>
-
-			
 		</ul>
 
 		<p style="text-indent: 0.5rem;margin-left: 0rem;font-size:110%;">
@@ -114,23 +122,29 @@
 
 		<ul>
 			<p style="text-indent: -1.5rem;margin-left: 0rem;">
-				<span>
-					[2] 
-					<b>Tian, H.</b>; Tao, P. 
-					ivis Dimensionality Reduction Framework for Biomacromolecular Simulations. 
-					<i>Journal of Chemical Information and Modeling</i>. 2020 
-					[<a href= "https://pubs.acs.org/doi/10.1021/acs.jcim.0c00485">PDF</a>] 
-				</span>
+				<div class="box">
+					<img src="./Files/ivis.png" width="300px" height="150px" style="margin-right: 20px" />
+					<span>
+						[2] 
+						<b>Tian, H.</b>; Tao, P. 
+						ivis Dimensionality Reduction Framework for Biomacromolecular Simulations. 
+						<i>Journal of Chemical Information and Modeling</i>. 2020 
+						[<a href= "https://pubs.acs.org/doi/10.1021/acs.jcim.0c00485">PDF</a>] 
+					</span>
+				</div>
 			</p>
 
 			<p style="text-indent: -1.5rem;margin-left: 0rem;">
-				<span>
-					[1] 
-					<b>Tian, H.</b>; Tao, P. 
-					Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods. 
-					<i>Journal of Biomolecular Structure and Dynamics</i>. 2020 
-					[<a href= "https://www.tandfonline.com/doi/full/10.1080/07391102.2020.1802338">PDF</a>] 
-				</span>
+				<div class="box">
+					<img src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" width="300px" height="150px" alt="" style="margin-right: 20px" />
+					<span>
+						[1] 
+						<b>Tian, H.</b>; Tao, P. 
+						Deciphering the Protein Motion of S1 Subunit in SARS-CoV-2 Spike Glycoprotein Through Integrated Computational Methods. 
+						<i>Journal of Biomolecular Structure and Dynamics</i>. 2020 
+						[<a href= "https://www.tandfonline.com/doi/full/10.1080/07391102.2020.1802338">PDF</a>] 
+					</span>
+				</div>
 			</p>
 		</ul>
 
@@ -143,6 +157,52 @@
 			<ul>
 				<li> A package based on SciHub and Google Scholar that can download articles given DOI, website address or keywords; </li>
 				<li> Imported in Python or used as command line.  </li>
+			</ul>
+		</p>
+		<br/>
+
+		<p style='text-indent: 2em;'>
+			PASS: Protein Allosteric Site Server &nbsp;&nbsp; (preparing for public depolyment)
+			<ul>
+				<li> A web server to predict allosteric sites given protein PDB ID or PDB file; </li>
+				<li> Implemented using Django framework, SQLite database and JSmol; </li>
+				<li> Learn both physical properties through XGBoost model and pocket topology through Graph Convolutional Network. </li>
+			</ul>
+		</p>
+
+
+
+		<!-- AWARDS -->
+		<A NAME="Presentations"><h2>Presentations</h2></A>
+		<p style="text-indent: 0.5rem;margin-left: 0rem;font-size:110%;">
+			<b>Talk:</b>
+		</p>
+
+		<p> 
+			<ul>
+				<li>
+					<b>Tian, H.</b>; Trozzi, F.; Zoltowski, B.D.; Tao, P. What is hidden behind allostery? An integrated framework to decipher key components in AuLOV dimerization. Two-minute lightning presentation, 3<sup>rd</sup> RSC-BMCS / RSC-CICAG Artificial Intelligence in Chemistry, 2020. 
+				</li>
+			</ul>
+		</p>
+
+		<p style="text-indent: 0.5rem;margin-left: 0rem;font-size:110%;">
+			<b>Poster:</b>
+		</p>
+
+		<p> 
+			<ul>
+				<li>
+					<b>Tian, H.</b>; Trozzi, F.; Zoltowski, B.D.; Tao, P. What is hidden behind allostery? An integrated framework to decipher key components in AuLOV dimerization. <a href="https://nbviewer.jupyter.org/github/HTian1997/htian1997.github.io/blob/master/Files/p40.png">[PDF]</a>
+					<ul style="padding-top: 0;">
+						<li>
+						3<sup>rd</sup> RSC-BMCS / RSC-CICAG Artificial Intelligence in Chemistry, 2020.
+						</li>
+						<li>
+						Virtual Conference on Theoretical Chemistry, 2020. 
+						</li>
+					</ul>
+				</li>
 			</ul>
 		</p>
 
@@ -190,13 +250,15 @@
 		<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5x1b0jtxfqk&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=0" async="async"></script>
 
 
+		<!--
 		<p style="font-size: 13px; color: #A0A0A0; text-align:center">
 			Total visitors: 
 			<script type="text/javascript" src="//counter.websiteout.net/js/17/8/732/0"></script>
 		</p>
+		-->
 
 		<p style="font-size: 13px; color: #A0A0A0; text-align:center">
-			Last updated on 2020/09/04
+			Last updated on 2020/09/24
 		</p>
 
 	</div>
